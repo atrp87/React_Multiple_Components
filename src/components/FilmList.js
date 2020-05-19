@@ -1,8 +1,8 @@
 import React, { Component } from "react";
 import Film from "./Film"; 
 
-import { Link } from 'react-router-dom'
-import { Button } from 'semantic-ui-react';
+// import { Link } from 'react-router-dom'
+// import { Button } from 'semantic-ui-react';
 
 class FilmList extends Component {
     render() {
